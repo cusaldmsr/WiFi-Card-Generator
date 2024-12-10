@@ -68,9 +68,6 @@ If you want to host this project locally:
 Contributions, issues, and feature requests are welcome!  
 Feel free to fork the repository and submit a pull request with your enhancements.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
