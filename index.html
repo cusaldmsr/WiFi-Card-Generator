@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>QR Code Generator</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="card">
+        <h2>Generate a QR for your WiFi</h2>
+        <div id="qrcode" ></div>
+        <div class="input-group">
+            <label for="network">Network name</label>
+            <input type="text" id="network" placeholder=" Enter your network name">
+        </div>
+        <div class="input-group">
+            <label for="password">Password</label>
+            <input type="password" id="password" placeholder="Enter your Password">
+        </div>
+        <p class="instructions">📱 Point your phone's camera at the QR code to connect to WiFi</p>
+        <button onclick="printQR()">Print WiFi Card</button>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/qrcode-generator@1.4.4/qrcode.min.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
