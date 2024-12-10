@@ -13,6 +13,13 @@
 <p align="center"><a href="https://cusaldmsr.github.io/WiFi-Card-Generator/" align="center">WiFi Card Generator</a> is a simple web application that generates QR codes for connecting to WiFi networks. Users can scan the QR code to quickly join a network without manually entering the credentials.</p> 
 
 <br>
+<p align="center">
+        <img src="https://img.shields.io/github/created-at/cusaldmsr/WiFi-Card-Generator"/>
+        <img src="https://img.shields.io/github/commit-activity/m/cusaldmsr/WiFi-Card-Generator"/>
+        <img src="https://img.shields.io/github/forks/cusaldmsr/WiFi-Card-Generator"/>
+        <img src="https://img.shields.io/github/stars/cusaldmsr/WiFi-Card-Generator"/>
+        <img src="https://img.shields.io/github/watchers/cusaldmsr/WiFi-Card-Generator"/>
+</p>
 <br>
 
 ## Features
